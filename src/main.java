@@ -67,21 +67,17 @@ public class main {
         }
         System.out.println();
         System.out.println("Задание 7:");
-        int one = 1;
+        int one = 2;
         int two = 2;
         int three = 3;
-        if (one > two && one > three ) {
+        if (one > two && one > three) {
             System.out.println("Первое число больше второго и третьего");
     }
-        if (two > one && two > three ) {
-            System.out.println("Второе число больше второго и третьего");
+        if (two > one && two > three) {
+            System.out.println("Второе число больше первого и третьего");
         }
-        if (two > one && two > three ) {
-            System.out.println("Второе число больше второго и третьего");
-            }
         else  {
         System.out.println("Третье число больше первого и второго");
     }
     }
-
 }
