@@ -67,7 +67,7 @@ public class main {
         }
         System.out.println();
         System.out.println("Задание 7:");
-        int one = 2;
+        int one = 1;
         int two = 2;
         int three = 3;
         if (one > two && one > three) {
